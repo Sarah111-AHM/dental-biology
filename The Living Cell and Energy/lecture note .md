@@ -11,7 +11,7 @@ The living cell functions as a **miniature chemical factory**, conducting thousa
 Some organisms convert energy into light via **bioluminescence**  
 (e.g., fireflies, deep-sea jellyfish).
 
-https://drive.google.com/uc?export=download&id=1e3eciIha-zSapDTZLuFPz9FtjBXrQSls
+![](https://drive.google.com/uc?export=view&id=1e3eciIha-zSapDTZLuFPz9FtjBXrQSls)
 ---
 
 # 2. Metabolism: Transforming Matter and Energy
@@ -25,7 +25,7 @@ Metabolism is the **sum of all chemical reactions** in an organism.
 
 ## Guiding Principle
 - Subject to the **laws of thermodynamics**
-
+![](https://drive.google.com/uc?export=view&id=1gKtDrAogsxYFTKOK5gkKRkCmNY0sjyXV)
 ---
 
 # 3. Metabolic Pathways
@@ -43,7 +43,7 @@ A metabolic pathway is a **series of enzyme-catalyzed reactions** that transform
 
 ## Key Concept
 - Each step requires a **specific enzyme**
-
+![](https://drive.google.com/uc?export=view&id=1iuIQsC4vXvW7iKTnXsNWsDFF2hsvV9p3)
 ---
 
 # 4. Catabolic Pathways
@@ -106,7 +106,7 @@ Energy is the **capacity to cause change**.
 - Potential energy stored in **chemical bonds**
 - Released during **chemical reactions**
 - **Example:** Glucose breakdown in cellular respiration
-
+![](https://drive.google.com/uc?export=view&id=1QO2r8o2bj-gtyoe6D5mWl77j_X8WqF_x)
 ---
 
 # 4. Energy Conversion

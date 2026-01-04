@@ -1,6 +1,6 @@
-**Chapter 4 – Carbon and the Molecular Diversity of Life**
+# **Chapter 4 – Carbon and the Molecular Diversity of Life**
 
-**(Explained in Simple Oxford-Level English)**
+
 
 ---
 

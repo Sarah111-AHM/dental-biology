@@ -54,7 +54,7 @@ Catabolic pathways **break down complex molecules into simpler compounds**, rele
 ## Example: Cellular Respiration
 - Breakdown of **glucose** in the presence of **oxygen**
 - Produces **energy** for the cell to use
-
+![](https://drive.google.com/uc?export=view&id=1iA7LsYtDoJ5qK-RJPyJlE4I2VeZpkrlf)
 ---
 # 1. Anabolic Pathways
 
@@ -118,7 +118,7 @@ Energy can transform from one form to another, for example:
 
 ## Example Diagram
 A diver’s energy changes between the platform and the water.
-
+![](https://drive.google.com/uc?export=view&id=1iA7LsYtDoJ5qK-RJPyJlE4I2VeZpkrlf)
 ---
 
 # 1. Thermodynamics and Energy Transformation
@@ -139,7 +139,7 @@ Thermodynamics is the study of **energy transformations**.
 
 ## Key Concept
 Organisms are **open systems**, constantly exchanging energy and matter.
-
+![](https://drive.google.com/uc?export=view&id=1affN3jlB4wWBK8_9t9NsLLUq-59WSEaf)
 ---
 
 # 2. The First Law of Thermodynamics
@@ -157,7 +157,7 @@ Law of **Energy Conservation**
 - Chemical energy in food  
   → Kinetic energy for muscle movement  
   → Heat energy released
-
+![](https://drive.google.com/uc?export=view&id=1qdGWSO2-jNPeM0w0EHtS9ql1ECxQnjT2)
 ---
 
 # 1. The Second Law of Thermodynamics
@@ -170,7 +170,7 @@ Every energy transfer or transformation **increases the entropy (disorder) of th
 
 ## Key Concept
 **Entropy** = measure of disorder.
-
+![](https://drive.google.com/uc?export=view&id=1g4ZAqpBlmSWFIJSOitSScD11OsqZKZic)
 ---
 
 # 2. Energy Transformation in Living Cells
@@ -187,7 +187,7 @@ Cells inevitably convert **organized forms of energy** into **heat**.
 ## Example
 - Diffusion of molecules in the cytoplasm
 - Breaking of chemical bonds releasing heat
-
+![](https://drive.google.com/uc?export=view&id=16OF5MQ9BAyuJZ4KPEI7tG8cQz2R3kEx5)
 ---
 
 # 3. Biological Order and Disorder
@@ -202,7 +202,7 @@ Cells build **highly ordered structures** from less ordered materials
 
 ## Key Concept
 Life maintains **local order** but contributes to **global disorder**.
-
+![](https://drive.google.com/uc?export=view&id=1hkbKEOZWvC31Gk1CVEnt8FghBXp6n0_B) 
 ---
 
 # Complexity and the Second Law
@@ -216,14 +216,6 @@ The evolution of more complex organisms **does not violate** the second law of t
 
 ## Key Concept
 Local order is possible **at the expense of increasing global disorder**.
-
-### [IMAGE 1]
-**Prompt:**  
-> A stunning visual metaphor for local complexity vs universal entropy.  
-> Show a single, intricate ice crystal (representing a complex organism) forming and growing with perfect geometric patterns.  
-> Around it, show warm, chaotic steam molecules dispersing into a vast cosmic background.  
-> The crystal represents local order, while the expanding steam shows increased universal entropy.  
-> Macro photography meets cosmic  .
 
 ---
 
@@ -240,12 +232,7 @@ The free-energy change (**ΔG**) of a reaction predicts whether a reaction occur
 - **Spontaneous:** Glucose breakdown in cellular respiration (ΔG < 0)
 - **Non-spontaneous:** Protein synthesis from amino acids (ΔG > 0)
 
-### [IMAGE 2]
-**Prompt:**  
-> Split-screen comparison of spontaneous vs non-spontaneous reactions.  
-> Left: Glucose molecules breaking apart with a downward green arrow (ΔG < 0), releasing energy sparks.  
-> Right: Amino acids assembling into a protein chain with an upward red arrow (ΔG > 0), requiring ATP energy coins to be added.  
-> Clean laboratory diagram style with clear mathematical symbols.
+![](https://drive.google.com/uc?export=view&id=1q4u5F_li1igm_372JbrnVaTWeXV3_F2X)
 
 ---
 
@@ -259,7 +246,7 @@ Free energy (ΔG) applies directly to biochemical reactions in living systems.
 
 **Importance:**  
 Helps predict whether reactions occur spontaneously or require energy input.
-
+![](https://drive.google.com/uc?export=view&id=1fJfXd_QJ6SuxeD5JML6Veud-GjbnwbPt)
 ---
 
 ## Exergonic and Endergonic Reactions
@@ -282,29 +269,8 @@ Helps predict whether reactions occur spontaneously or require energy input.
 
 ---
 
-## Images & Visual Prompts
-
-### [IMAGE 3]
-**Prompt:**  
-> A living cell as an energy transformer. Show a mitochondrion inside a cell where glucose breakdown (ΔG<0) releases packets of usable energy (like glowing ATP batteries). These batteries then power various cellular machines including ribosomes building proteins (ΔG>0). Use flowing arrows and color coding to show energy transfer. Scientific cross-section illustration.
-
-### [IMAGE 4]
-**Prompt:**  
-> Clear educational diagram titled 'Free Energy (ΔG) in Cellular Reactions'. Two pathways:  
-> 1) DOWNHILL (Left): Glucose → CO2 + H2O with large downward arrow labeled 'ΔG < 0, Spontaneous, Releases Energy'.  
-> 2) UPHILL (Right): Amino acids → Protein with upward arrow labeled 'ΔG > 0, Non-spontaneous, Requires Energy Input'.  
-> Simple, bold infographic style with icons.
-
-### [IMAGE 5 - Visual Aid Suggestion]
-**Prompt:**  
-> A comprehensive flowchart diagram showing the relationship: Starting molecules → ΔG calculation → Outcome:  
-> - if ΔG<0 goes to 'Spontaneous Reaction' box with energy release icon  
-> - if ΔG>0 goes to 'Energy Input Required' box with ATP addition icon  
-> Include real examples: glucose breakdown and protein synthesis. Professional scientific poster style.
-
-
-one showing energy release (**exergonic**), one showing energy absorption (**endergonic**).
-
+![](https://drive.google.com/uc?export=view&id=1Yg1a9kMK9szR-9TeS29YiPPWTzIKCQ8f)
+![](https://drive.google.com/uc?export=view&id=1BLlS9y62DitsxSRWxs-FwbMU1JvGoiUD)
 ---
 
 # Energy of Life: Complete Master Sheet
@@ -322,10 +288,7 @@ Energy extraction → Cellular work
 **Visual:**  
 Cross-sectional factory view with mitochondria as power plants
 
-### [IMAGE 1]
-**Prompt:**  
-> Eukaryotic cell as intricate factory: mitochondria with turbines, ER conveyor belts, enzyme robots.  
-> Steampunk-science fusion, cinematic lighting.
+
 
 ---
 
@@ -338,14 +301,6 @@ Cross-sectional factory view with mitochondria as power plants
 
 **Key Principle:**  
 Metabolism never reaches **equilibrium** (life-defining feature)
-
-### [IMAGE 2]
-**Prompt:**  
-> Animated metabolic flowchart:  
-> Food → Catabolism (energy release) → ATP → Anabolism (energy use).  
-> Red arrows for catabolic, blue for anabolic pathways.
-
----
 
 ---
 
@@ -368,9 +323,6 @@ Metabolism never reaches **equilibrium** (life-defining feature)
 2. **Transport:** Membrane pumping (Na⁺/K⁺ pump)  
 3. **Mechanical:** Movement (muscles, cilia)
 
-### [IMAGE 5]
-**Prompt:**  
-> 3D molecular model of ATP hydrolyzing: Show terminal phosphate breaking off with energy burst, transforming to ADP. Annotations: Ribose, Adenine, High-energy bonds.
 
 ---
 
@@ -382,9 +334,7 @@ Metabolism never reaches **equilibrium** (life-defining feature)
 **Example:**  
 Glucose breakdown (exergonic, ΔG<0) → ATP synthesis → Protein building (endergonic, ΔG>0)
 
-### [IMAGE 6]
-**Prompt:**  
-> Energy coupling diagram: Left - Glucose catabolism releases energy as ATP. Right - ATP hydrolysis drives amino acid assembly into protein. Central ATP as 'shuttle'.
+
 
 ---
 
@@ -399,10 +349,6 @@ Glucose breakdown (exergonic, ΔG<0) → ATP synthesis → Protein building (end
 
 **Biological Reality:** Cells maintain high G state (far from equilibrium) to enable work
 
-### [IMAGE 7]
-**Prompt:**  
-> Stability spectrum: Left 'High G' (unstable, can work) → Arrow decreasing → Right 'Low G' (stable equilibrium). Examples: Glucose→ATP→CO₂.
-
 ---
 
 ## 8. Quick Memory Matrix
@@ -416,9 +362,6 @@ Glucose breakdown (exergonic, ΔG<0) → ATP synthesis → Protein building (end
 | ATP Hydrolysis | ATP→ADP | Releases -7.3 kcal/mol | All cellular work |
 | Metabolism | Never at equilibrium | Constant flow | Life itself               |
 
-### [IMAGE 8]
-**Prompt:**  
-> Color-coded matrix: Green for energy-releasing (exergonic/catabolic), Red for energy-requiring (endergonic/anabolic), Yellow for ATP processes. Icon-based design.
 
 ---
 
@@ -432,14 +375,8 @@ Glucose breakdown (exergonic, ΔG<0) → ATP synthesis → Protein building (end
 
 **Clinical Connection:** Metabolic diseases disrupt these pathways
 
-### [IMAGE 9]
-**Prompt:**  
-> Three-panel application: 1) Firefly glowing (bioluminescence) 2) Muscle fibers contracting 3) Cell membrane pump working. Unified biological theme.
----
 
-### [IMAGE 10 - MASTER DIAGRAM]
-**Prompt:**  
-> Comprehensive 'Energy of Life' flowchart incorporating: Thermodynamics equations, ATP cycle, metabolic pathways, work types. Single-page infographic suitable for exam revision.
+
 
 ---
 
@@ -466,9 +403,6 @@ Practice by explaining each arrow/icon in the master diagram without notes.
 - Metabolism never at equilibrium (definition of life)  
 - Energy coupling: Exergonic → Drives → Endergonic
 
-### [IMAGE 1]
-**Prompt:**  
-> Visual metaphor: Cell as vortex - nutrients flowing in, waste flowing out, ATP cycling internally. Shows constant flux far from equilibrium. Dynamic, flowing artistic style.
 
 ---
 
